@@ -9,5 +9,5 @@
 해시 | 1️⃣ | [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576) | [🔗](https://github.com/congcoding/SteadyAlgorithmStudy/blob/main/%EB%B9%88%EC%A0%95%EC%9B%90/%ED%95%B4%EC%8B%9C/L1_%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80_%EB%AA%BB%ED%95%9C_%EC%84%A0%EC%88%98.java)
 정렬 | 1️⃣ | [K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748) | [🔗](https://github.com/congcoding/SteadyAlgorithmStudy/blob/main/%EB%B9%88%EC%A0%95%EC%9B%90/%EC%A0%95%EB%A0%AC/L1_K%EB%B2%88%EC%A7%B8%EC%88%98.java)
 완전탐색 | 1️⃣ | [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840) | [🔗](https://github.com/congcoding/SteadyAlgorithmStudy/blob/main/%EB%B9%88%EC%A0%95%EC%9B%90/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/L1_%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC.java)
-　|　|　|　
+그리디 | 1️⃣ | [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862?language=java) | [🔗](https://github.com/congcoding/SteadyAlgorithmStudy/blob/main/%EB%B9%88%EC%A0%95%EC%9B%90/%EA%B7%B8%EB%A6%AC%EB%94%94/L1_%EC%B2%B4%EC%9C%A1%EB%B3%B5.java)
  　|　|　|　
