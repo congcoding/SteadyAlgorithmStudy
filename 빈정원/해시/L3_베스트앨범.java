@@ -29,13 +29,13 @@ class Solution {
             map.get(genres[i]).add(new Song(plays[i], i));
         }
 
-        // 장르별 재생횟수 합 정렬 (value 기준)
+        // 장르별 재생횟수 합 내림차순 정렬 (value 기준)
         ArrayList<Map.Entry<String, Integer>> entryList = new ArrayList<>(totalMap.entrySet());
-        entryList.sort((o1, o2) -> totalMap.get(o1.getKey()) - totalMap.get(o2.getKey()));
+        entryList.sort((o1, o2) -> totalMap.get(o2.getKey()) - totalMap.get(o1.getKey()));
         
         // 많이 재생된 장르 순으로 돌면서
         ArrayList<Integer> ans = new ArrayList<>();
-        for (int i = entryList.size() - 1; i >= 0; i--) {
+        for (int i = 0; i < entryList.size(); i++) {
             ArrayList<Song> tmp = map.get(entryList.get(i).getKey());
             // 장르 내의 노래 재생 횟수를 정렬해서 2개 혹은 1개를 정답에 추가
             Collections.sort(tmp);
