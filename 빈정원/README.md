@@ -3,6 +3,12 @@
 ⭐온라인 감독 코딩테스트를 대비하여 IDE, 구글링 없이 풀기  
 ⭐헷갈리는 메서드는 [공식 문서](https://devdocs.programmers.co.kr/references/java/docs/api/index.html?overview-summary.html) 검색해서 사용하기
 #
+### 2주차 (21.09.26)
+유형 | 레벨 | 제목 | 풀이
+:-: | :-: | :-: | :-:
+해시 | 2️⃣ | [위장](https://programmers.co.kr/learn/courses/30/lessons/42578) | [🔗](https://github.com/congcoding/SteadyAlgorithmStudy/blob/main/%EB%B9%88%EC%A0%95%EC%9B%90/%ED%95%B4%EC%8B%9C/L2_%EC%9C%84%EC%9E%A5.java)
+해시 | 3️⃣ | [베스트앨범](https://programmers.co.kr/learn/courses/30/lessons/42579) | [🔗](https://github.com/congcoding/SteadyAlgorithmStudy/blob/main/%EB%B9%88%EC%A0%95%EC%9B%90/%ED%95%B4%EC%8B%9C/L3_%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%95%A8%EB%B2%94.java)
+#
 ### 1주차 (21.09.19)
 유형 | 레벨 | 제목 | 풀이
 :-: | :-: | :-: | :-:
