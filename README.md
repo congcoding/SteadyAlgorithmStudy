@@ -11,4 +11,7 @@ GitHub | [congcoding](https://github.com/congcoding) | [hye0e](https://github.co
 언어 | <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" /> | <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> | <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" /> | <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
 스터디 내용 | [보러가기](https://github.com/congcoding/ProgrammersStudy/tree/main/%EB%B9%88%EC%A0%95%EC%9B%90) | [보러가기](https://github.com/congcoding/ProgrammersStudy/tree/main/%EC%8B%A0%ED%98%9C%EC%98%81) | [보러가기](https://github.com/congcoding/ProgrammersStudy/tree/main/%EC%A1%B0%EC%A3%BC%EC%9D%80) | [보러가기](https://github.com/congcoding/ProgrammersStudy/tree/main/%ED%99%8D%EC%A7%80%EC%88%98)
 1주차 (21.09.19) | ✅ | ✅ | ✅ | ✅
-2주차 (21.09.26) | | | |
+2주차 (21.09.26) | ✅ | ✅ | ✅ | ✅
+3주차 (21.10.03) | | | |
+4주차 (21.10.10) | | | |
+5주차 (21.10.17) | | | |
