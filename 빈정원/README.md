@@ -2,6 +2,10 @@
 ⭐프로그래머스 [코딩테스트 고득점 Kit](https://programmers.co.kr/learn/challenges) 위주로 풀기  
 ⭐온라인 감독 코딩테스트를 대비하여 IDE, 구글링 없이 풀기  
 ⭐헷갈리는 메서드는 [공식 문서](https://devdocs.programmers.co.kr/references/java/docs/api/index.html?overview-summary.html) 검색해서 사용하기
+### 3주차 (21.10.03)
+유형 | 레벨 | 제목 | 풀이
+:-: | :-: | :-: | :-:
+정렬 | 2️⃣ | [H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747?language=java) | [🔗](https://github.com/congcoding/SteadyAlgorithmStudy/blob/main/%EB%B9%88%EC%A0%95%EC%9B%90/%EC%A0%95%EB%A0%AC/L2_H-Index.java)
 #
 ### 2주차 (21.09.26)
 유형 | 레벨 | 제목 | 풀이
@@ -11,7 +15,6 @@
 스택, 큐 | 2️⃣ | [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586) | [🔗](https://github.com/congcoding/SteadyAlgorithmStudy/blob/main/%EB%B9%88%EC%A0%95%EC%9B%90/%EC%8A%A4%ED%83%9D%2C%20%ED%81%90/L2_%EA%B8%B0%EB%8A%A5%EA%B0%9C%EB%B0%9C.java)
 힙 | 2️⃣ | [더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626) | [🔗](https://github.com/congcoding/SteadyAlgorithmStudy/blob/main/%EB%B9%88%EC%A0%95%EC%9B%90/%ED%9E%99/L2_%EB%8D%94_%EB%A7%B5%EA%B2%8C.java)
 정렬 | 2️⃣ | [가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746) | [🔗](https://github.com/congcoding/SteadyAlgorithmStudy/blob/main/%EB%B9%88%EC%A0%95%EC%9B%90/%EC%A0%95%EB%A0%AC/L2_%EA%B0%80%EC%9E%A5_%ED%81%B0_%EC%88%98.java)
-
 #
 ### 1주차 (21.09.19)
 유형 | 레벨 | 제목 | 풀이
