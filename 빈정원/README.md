@@ -6,6 +6,8 @@
 유형 | 레벨 | 제목 | 풀이
 :-: | :-: | :-: | :-:
 정렬 | 2️⃣ | [H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747?language=java) | [🔗](https://github.com/congcoding/SteadyAlgorithmStudy/blob/main/%EB%B9%88%EC%A0%95%EC%9B%90/%EC%A0%95%EB%A0%AC/L2_H-Index.java)
+완전탐색 | 2️⃣ | [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839) | [🔗](https://github.com/congcoding/SteadyAlgorithmStudy/blob/main/%EB%B9%88%EC%A0%95%EC%9B%90/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/L2_%EC%86%8C%EC%88%98_%EC%B0%BE%EA%B8%B0.java)
+DFS, BFS | 2️⃣ | [타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165) | [🔗](https://github.com/congcoding/SteadyAlgorithmStudy/blob/main/%EB%B9%88%EC%A0%95%EC%9B%90/DFS%2C%20BFS/L2_%ED%83%80%EA%B2%9F_%EB%84%98%EB%B2%84.java)
 #
 ### 2주차 (21.09.26)
 유형 | 레벨 | 제목 | 풀이
