@@ -2,6 +2,7 @@
 ⭐프로그래머스 [코딩테스트 고득점 Kit](https://programmers.co.kr/learn/challenges) 위주로 풀기  
 ⭐온라인 감독 코딩테스트를 대비하여 IDE, 구글링 없이 풀기  
 ⭐헷갈리는 메서드는 [공식 문서](https://devdocs.programmers.co.kr/references/java/docs/api/index.html?overview-summary.html) 검색해서 사용하기
+#
 ### 3주차 (21.10.03)
 유형 | 레벨 | 제목 | 풀이
 :-: | :-: | :-: | :-:
