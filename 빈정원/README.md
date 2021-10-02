@@ -5,17 +5,18 @@
 ### 3주차 (21.10.03)
 유형 | 레벨 | 제목 | 풀이
 :-: | :-: | :-: | :-:
-정렬 | 2️⃣ | [H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747) | [🔗](https://github.com/congcoding/SteadyAlgorithmStudy/blob/main/%EB%B9%88%EC%A0%95%EC%9B%90/%EC%A0%95%EB%A0%AC/L2_H-Index.java)
-완전탐색 | 2️⃣ | [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839) | [🔗](https://github.com/congcoding/SteadyAlgorithmStudy/blob/main/%EB%B9%88%EC%A0%95%EC%9B%90/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/L2_%EC%86%8C%EC%88%98_%EC%B0%BE%EA%B8%B0.java)
-DFS, BFS | 2️⃣ | [타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165) | [🔗](https://github.com/congcoding/SteadyAlgorithmStudy/blob/main/%EB%B9%88%EC%A0%95%EC%9B%90/DFS%2C%20BFS/L2_%ED%83%80%EA%B2%9F_%EB%84%98%EB%B2%84.java)
-스택, 큐 | 2️⃣ | [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587) | [🔗](https://github.com/congcoding/SteadyAlgorithmStudy/blob/main/%EB%B9%88%EC%A0%95%EC%9B%90/%EC%8A%A4%ED%83%9D%2C%20%ED%81%90/L2_%ED%94%84%EB%A6%B0%ED%84%B0.java)
+정렬 | 2️⃣ | [H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747) | [🔗](./정렬/L2_H-Index.java)
+완전탐색 | 2️⃣ | [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839) | [🔗](./완전탐색/L2_소수_찾기.java)
+DFS,BFS | 2️⃣ | [타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165) | [🔗](./스택,큐/L2_타겟_넘버.java)
+스택,큐 | 2️⃣ | [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587) | [🔗](./스택,큐"/L2_프린터.java)
+힙 | 3️⃣ | [이중우선순위큐](https://programmers.co.kr/learn/courses/30/lessons/42628) | [🔗](./힙/L3_이중우선순위큐.java)
 #
 ### 2주차 (21.09.26)
 유형 | 레벨 | 제목 | 풀이
 :-: | :-: | :-: | :-:
 해시 | 2️⃣ | [위장](https://programmers.co.kr/learn/courses/30/lessons/42578) | [🔗](https://github.com/congcoding/SteadyAlgorithmStudy/blob/main/%EB%B9%88%EC%A0%95%EC%9B%90/%ED%95%B4%EC%8B%9C/L2_%EC%9C%84%EC%9E%A5.java)
 해시 | 3️⃣ | [베스트앨범](https://programmers.co.kr/learn/courses/30/lessons/42579) | [🔗](https://github.com/congcoding/SteadyAlgorithmStudy/blob/main/%EB%B9%88%EC%A0%95%EC%9B%90/%ED%95%B4%EC%8B%9C/L3_%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%95%A8%EB%B2%94.java)
-스택, 큐 | 2️⃣ | [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586) | [🔗](https://github.com/congcoding/SteadyAlgorithmStudy/blob/main/%EB%B9%88%EC%A0%95%EC%9B%90/%EC%8A%A4%ED%83%9D%2C%20%ED%81%90/L2_%EA%B8%B0%EB%8A%A5%EA%B0%9C%EB%B0%9C.java)
+스택,큐 | 2️⃣ | [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586) | [🔗](https://github.com/congcoding/SteadyAlgorithmStudy/blob/main/%EB%B9%88%EC%A0%95%EC%9B%90/%EC%8A%A4%ED%83%9D%2C%20%ED%81%90/L2_%EA%B8%B0%EB%8A%A5%EA%B0%9C%EB%B0%9C.java)
 힙 | 2️⃣ | [더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626) | [🔗](https://github.com/congcoding/SteadyAlgorithmStudy/blob/main/%EB%B9%88%EC%A0%95%EC%9B%90/%ED%9E%99/L2_%EB%8D%94_%EB%A7%B5%EA%B2%8C.java)
 정렬 | 2️⃣ | [가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746) | [🔗](https://github.com/congcoding/SteadyAlgorithmStudy/blob/main/%EB%B9%88%EC%A0%95%EC%9B%90/%EC%A0%95%EB%A0%AC/L2_%EA%B0%80%EC%9E%A5_%ED%81%B0_%EC%88%98.java)
 #
