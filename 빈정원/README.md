@@ -14,17 +14,17 @@ DFS,BFS | 2️⃣ | [타겟 넘버](https://programmers.co.kr/learn/courses/30/l
 ### 2주차 (21.09.26)
 유형 | 레벨 | 제목 | 풀이
 :-: | :-: | :-: | :-:
-해시 | 2️⃣ | [위장](https://programmers.co.kr/learn/courses/30/lessons/42578) | [🔗](https://github.com/congcoding/SteadyAlgorithmStudy/blob/main/%EB%B9%88%EC%A0%95%EC%9B%90/%ED%95%B4%EC%8B%9C/L2_%EC%9C%84%EC%9E%A5.java)
-해시 | 3️⃣ | [베스트앨범](https://programmers.co.kr/learn/courses/30/lessons/42579) | [🔗](https://github.com/congcoding/SteadyAlgorithmStudy/blob/main/%EB%B9%88%EC%A0%95%EC%9B%90/%ED%95%B4%EC%8B%9C/L3_%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%95%A8%EB%B2%94.java)
-스택,큐 | 2️⃣ | [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586) | [🔗](https://github.com/congcoding/SteadyAlgorithmStudy/blob/main/%EB%B9%88%EC%A0%95%EC%9B%90/%EC%8A%A4%ED%83%9D%2C%20%ED%81%90/L2_%EA%B8%B0%EB%8A%A5%EA%B0%9C%EB%B0%9C.java)
-힙 | 2️⃣ | [더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626) | [🔗](https://github.com/congcoding/SteadyAlgorithmStudy/blob/main/%EB%B9%88%EC%A0%95%EC%9B%90/%ED%9E%99/L2_%EB%8D%94_%EB%A7%B5%EA%B2%8C.java)
-정렬 | 2️⃣ | [가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746) | [🔗](https://github.com/congcoding/SteadyAlgorithmStudy/blob/main/%EB%B9%88%EC%A0%95%EC%9B%90/%EC%A0%95%EB%A0%AC/L2_%EA%B0%80%EC%9E%A5_%ED%81%B0_%EC%88%98.java)
+해시 | 2️⃣ | [위장](https://programmers.co.kr/learn/courses/30/lessons/42578) | [🔗](./해시/L2_위장.java)
+해시 | 3️⃣ | [베스트앨범](https://programmers.co.kr/learn/courses/30/lessons/42579) | [🔗](./해시/L3_베스트앨범.java)
+스택,큐 | 2️⃣ | [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586) | [🔗](./스택,큐/L2_기능개발.java)
+힙 | 2️⃣ | [더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626) | [🔗](./힙/L2_더_맵게.java)
+정렬 | 2️⃣ | [가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746) | [🔗](./정렬/L2_가장_큰_수.java)
 #
 ### 1주차 (21.09.19)
 유형 | 레벨 | 제목 | 풀이
 :-: | :-: | :-: | :-:
-해시 | 1️⃣ | [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576) | [🔗](https://github.com/congcoding/SteadyAlgorithmStudy/blob/main/%EB%B9%88%EC%A0%95%EC%9B%90/%ED%95%B4%EC%8B%9C/L1_%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80_%EB%AA%BB%ED%95%9C_%EC%84%A0%EC%88%98.java)
-정렬 | 1️⃣ | [K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748) | [🔗](https://github.com/congcoding/SteadyAlgorithmStudy/blob/main/%EB%B9%88%EC%A0%95%EC%9B%90/%EC%A0%95%EB%A0%AC/L1_K%EB%B2%88%EC%A7%B8%EC%88%98.java)
-완전탐색 | 1️⃣ | [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840) | [🔗](https://github.com/congcoding/SteadyAlgorithmStudy/blob/main/%EB%B9%88%EC%A0%95%EC%9B%90/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/L1_%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC.java)
-그리디 | 1️⃣ | [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862?language=java) | [🔗](https://github.com/congcoding/SteadyAlgorithmStudy/blob/main/%EB%B9%88%EC%A0%95%EC%9B%90/%EA%B7%B8%EB%A6%AC%EB%94%94/L1_%EC%B2%B4%EC%9C%A1%EB%B3%B5.java)
-해시 | 2️⃣ | [전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577?language=java) | [🔗](https://github.com/congcoding/SteadyAlgorithmStudy/blob/main/%EB%B9%88%EC%A0%95%EC%9B%90/%ED%95%B4%EC%8B%9C/L2_%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8_%EB%AA%A9%EB%A1%9D.java)
+해시 | 1️⃣ | [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576) | [🔗](./해시/L1_완주하지_못한_선수.java)
+정렬 | 1️⃣ | [K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748) | [🔗](./정렬/L1_K번째수.java)
+완전탐색 | 1️⃣ | [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840) | [🔗](./완전탐색/L1_모의고사.java)
+그리디 | 1️⃣ | [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862) | [🔗](./그리디/L1_체육복.java)
+해시 | 2️⃣ | [전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577) | [🔗](./해시/L2_전화번호_목록.java)
