@@ -7,7 +7,7 @@
 :-: | :-: | :-: | :-:
 정렬 | 2️⃣ | [H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747) | [🔗](./정렬/L2_H-Index.java)
 완전탐색 | 2️⃣ | [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839) | [🔗](./완전탐색/L2_소수_찾기.java)
-DFS,BFS | 2️⃣ | [타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165) | [🔗](./스택,큐/L2_타겟_넘버.java)
+DFS,BFS | 2️⃣ | [타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165) | [🔗](./DFS,BFS/L2_타겟_넘버.java)
 스택,큐 | 2️⃣ | [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587) | [🔗](./스택,큐"/L2_프린터.java)
 힙 | 3️⃣ | [이중우선순위큐](https://programmers.co.kr/learn/courses/30/lessons/42628) | [🔗](./힙/L3_이중우선순위큐.java)
 #
