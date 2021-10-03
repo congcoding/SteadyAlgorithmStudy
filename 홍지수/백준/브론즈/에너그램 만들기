@@ -1,0 +1,6 @@
+a = input()
+b = input()
+c = 0
+for i in range(97,123):
+    c += abs(a.count(chr(i))-b.count(chr(i)))
+print(c)
