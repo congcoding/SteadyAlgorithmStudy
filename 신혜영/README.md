@@ -7,7 +7,7 @@
 :-: | :-: | :-:
 DP |[1로 만들기](https://www.acmicpc.net/problem/1463) | [🔗](https://github.com/congcoding/SteadyAlgorithmStudy/blob/main/%EC%8B%A0%ED%98%9C%EC%98%81/%EB%B0%B1%EC%A4%80/DP/1%EB%A1%9C%20%EB%A7%8C%EB%93%A4%EA%B8%B0.py)
 DP |[1,2,3 만들기](https://www.acmicpc.net/problem/9095) | [🔗](https://github.com/congcoding/SteadyAlgorithmStudy/blob/main/%EC%8B%A0%ED%98%9C%EC%98%81/%EB%B0%B1%EC%A4%80/DP/1%2C%202%2C%203%20%EB%8D%94%ED%95%98%EA%B8%B0.py)
-DP |[2×n 타일링.py](https://www.acmicpc.net/problem/11726) | [🔗](https://github.com/congcoding/SteadyAlgorithmStudy/blob/main/%EC%8B%A0%ED%98%9C%EC%98%81/%EB%B0%B1%EC%A4%80/DP/2%C3%97n%20%ED%83%80%EC%9D%BC%EB%A7%81.py)
-DP |[2×n 타일링 2.py](https://www.acmicpc.net/problem/11727) | [🔗](https://github.com/congcoding/SteadyAlgorithmStudy/blob/main/%EC%8B%A0%ED%98%9C%EC%98%81/%EB%B0%B1%EC%A4%80/DP/2%C3%97n%20%ED%83%80%EC%9D%BC%EB%A7%81%202.py)
+DP |[2×n 타일링](https://www.acmicpc.net/problem/11726) | [🔗](https://github.com/congcoding/SteadyAlgorithmStudy/blob/main/%EC%8B%A0%ED%98%9C%EC%98%81/%EB%B0%B1%EC%A4%80/DP/2%C3%97n%20%ED%83%80%EC%9D%BC%EB%A7%81.py)
+DP |[2×n 타일링 2](https://www.acmicpc.net/problem/11727) | [🔗](https://github.com/congcoding/SteadyAlgorithmStudy/blob/main/%EC%8B%A0%ED%98%9C%EC%98%81/%EB%B0%B1%EC%A4%80/DP/2%C3%97n%20%ED%83%80%EC%9D%BC%EB%A7%81%202.py)
 DP |[쉬운 계단 수](https://www.acmicpc.net/problem/10844) | [🔗](https://github.com/congcoding/SteadyAlgorithmStudy/blob/main/%EC%8B%A0%ED%98%9C%EC%98%81/%EB%B0%B1%EC%A4%80/DP/%EC%89%AC%EC%9A%B4%20%EA%B3%84%EB%8B%A8%20%EC%88%98.py)
 
