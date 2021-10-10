@@ -18,5 +18,5 @@ def quick_sort(arr):
     return quick_sort(lesser_arr) + equal_arr + quick_sort(greater_arr)
 
 arr = quick_sort(arr)
-for num in range:
+for num in arr:
     print(num)
