@@ -3,6 +3,9 @@
 ⭐온라인 감독 코딩테스트를 대비하여 IDE, 구글링 없이 풀기  
 ⭐헷갈리는 메서드는 [공식 문서](https://devdocs.programmers.co.kr/references/java/docs/api/index.html?overview-summary.html) 검색해서 사용하기
 #
+⭐SWEA [모의 SW 역량테스트](https://swexpertacademy.com/main/code/problem/problemList.do?contestProbId=&categoryId=&categoryType=&problemTitle=%EB%AA%A8%EC%9D%98&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1) 위주로 풀기  
+⭐오프라인 코딩테스트를 대비하여 IDE와 디버깅 기능을 사용하여 풀기  
+#
 ### 4주차 (21.10.10)
 유형 | 레벨 | 제목 | 풀이
 :-: | :-: | :-: | :-:
