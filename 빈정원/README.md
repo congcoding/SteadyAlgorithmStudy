@@ -6,6 +6,12 @@
 ⭐SWEA [모의 SW 역량테스트](https://swexpertacademy.com/main/code/problem/problemList.do?contestProbId=&categoryId=&categoryType=&problemTitle=%EB%AA%A8%EC%9D%98&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1) 위주로 풀기  
 ⭐오프라인 코딩테스트를 대비하여 IDE와 디버깅 기능을 사용하여 풀기  
 #
+### 5주차 (21.10.17)
+유형 | 제목 | 풀이
+:-: | :-: | :-:
+DFS | [수영장](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PpFQaAQMDFAUq&categoryId=AV5PpFQaAQMDFAUq&categoryType=CODE&problemTitle=%EC%88%98%EC%98%81%EC%9E%A5&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1) | [🔗](./A형/DFS/Solution_1952_수영장_DFS.java)
+DP | [수영장](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PpFQaAQMDFAUq&categoryId=AV5PpFQaAQMDFAUq&categoryType=CODE&problemTitle=%EC%88%98%EC%98%81%EC%9E%A5&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1) | [🔗](./A형/DP/Solution_1952_수영장_DP.java)
+#
 ### 4주차 (21.10.10)
 유형 | 레벨 | 제목 | 풀이
 :-: | :-: | :-: | :-:
