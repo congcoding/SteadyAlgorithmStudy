@@ -11,6 +11,11 @@
 :-: | :-: | :-:
 DFS | [수영장](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PpFQaAQMDFAUq&categoryId=AV5PpFQaAQMDFAUq&categoryType=CODE&problemTitle=%EC%88%98%EC%98%81%EC%9E%A5&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1) | [🔗](./A형/DFS/Solution_1952_수영장_DFS.java)
 DP | [수영장](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PpFQaAQMDFAUq&categoryId=AV5PpFQaAQMDFAUq&categoryType=CODE&problemTitle=%EC%88%98%EC%98%81%EC%9E%A5&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1) | [🔗](./A형/DP/Solution_1952_수영장_DP.java)
+
+유형 | 레벨 | 제목 | 풀이
+:-: | :-: | :-: | :-:
+해시 | 1️⃣ | [로또의 최고 순위와 최저 순위](https://programmers.co.kr/learn/courses/30/lessons/77484) | [🔗](./2021_Dev_Matching_웹_백엔드_개발자(상반기)/L1_로또의_최고_순위와_최저_순위.java)
+구현 | 2️⃣ | [행렬 테두리 회전하기](https://programmers.co.kr/learn/courses/30/lessons/77485) | [🔗](./2021_Dev_Matching_웹_백엔드_개발자(상반기)/L2_행렬_테두리_회전하기.java)
 #
 ### 4주차 (21.10.10)
 유형 | 레벨 | 제목 | 풀이
