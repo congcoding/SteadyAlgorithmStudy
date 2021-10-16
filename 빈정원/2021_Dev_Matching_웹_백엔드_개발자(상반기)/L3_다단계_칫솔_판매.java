@@ -39,7 +39,7 @@ class Solution {
         int ninety = price - ten;
         map.get(seller).total += ninety;
 
-        // 추천인이 민호거나, 10%가 0원인 경우 백트래킹
+        // 추천인이 민호거나, 10%가 0원인 경우 종료
         String parent = map.get(seller).parent;
         if (!parent.equals("-") && ten != 0) {
             sell(parent, ten);
