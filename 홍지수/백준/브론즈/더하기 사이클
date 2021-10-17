@@ -1,0 +1,11 @@
+num = int(input()) 
+result = num
+count = 0 
+while True: 
+    temp = num//10 + num%10 
+    new = (num%10)*10 + temp%10 
+    count += 1 
+    num = new 
+    if new == result: 
+        break 
+print(count)
