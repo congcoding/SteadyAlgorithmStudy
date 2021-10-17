@@ -1,0 +1,12 @@
+words = input().upper()
+wordsList = list(set(words))
+
+countList = []
+for x in wordsList :
+    count = words.count(x)
+    countList.append(count)
+if countList.count(max(countList)) >= 2 :
+    print('?')
+else :
+    max_index = countList.index(max(countList))
+    print(wordsList[max_index])
