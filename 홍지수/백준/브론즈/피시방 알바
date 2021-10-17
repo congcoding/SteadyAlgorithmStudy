@@ -1,0 +1,10 @@
+N=int(input())
+seat=[]
+number=0
+cus=input().split()
+for i in range(N):
+    if cus[i] not in seat:
+        seat.append(cus[i])
+    else:
+        number += 1
+print(number)
