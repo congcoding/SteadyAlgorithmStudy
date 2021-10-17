@@ -1,0 +1,10 @@
+N = int(input())
+testList = list(map(int, input().split()))
+max_score = max(testList)
+
+new = []
+
+for score in testList :
+    new.append(score/max_score *100)
+avg = sum(new)/N
+print(avg)
