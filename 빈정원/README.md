@@ -6,6 +6,11 @@
 ⭐SWEA [모의 SW 역량테스트](https://swexpertacademy.com/main/code/problem/problemList.do?contestProbId=&categoryId=&categoryType=&problemTitle=%EB%AA%A8%EC%9D%98&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1) 위주로 풀기  
 ⭐오프라인 코딩테스트를 대비하여 IDE와 디버깅 기능을 사용하여 풀기  
 #
+### 6주차 (21.10.24)
+유형 | 제목 | 풀이
+:-: | :-: | :-:
+DFS | [숫자 만들기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeRZV6kBUDFAVH) | [🔗](./A형/DFS/Solution_4008_숫자_만들기.java)
+#
 ### 5주차 (21.10.17)
 유형 | 제목 | 풀이
 :-: | :-: | :-:
