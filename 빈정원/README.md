@@ -11,6 +11,7 @@
 :-: | :-: | :-:
 DFS | [숫자 만들기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeRZV6kBUDFAVH) | [🔗](./A형/DFS/Solution_4008_숫자_만들기.java)
 구현 | [벽돌 깨기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRQm6qfL0DFAUo) | [🔗](./A형/구현/Solution_5656_벽돌_깨기.java)
+구현 | [특이한 자석](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeV9sKkcoDFAVH) | [🔗](./A형/구현/Solution_4013_특이한_자석.java)
 #
 ### 5주차 (21.10.17)
 유형 | 제목 | 풀이
