@@ -6,6 +6,12 @@
 ⭐SWEA [모의 SW 역량테스트](https://swexpertacademy.com/main/code/problem/problemList.do?contestProbId=&categoryId=&categoryType=&problemTitle=%EB%AA%A8%EC%9D%98&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1) 위주로 풀기  
 ⭐오프라인 코딩테스트를 대비하여 IDE와 디버깅 기능을 사용하여 풀기  
 #
+### 7주차 (21.10.31)
+유형 | 레벨 | 제목 | 풀이
+:-: | :-: | :-: | :-:
+DFS,BFS | 3️⃣ | [단어 변환](https://programmers.co.kr/learn/courses/30/lessons/43163) | [🔗](./DFS,BFS/L3_단어_변환.java)
+DFS,BFS | 3️⃣ | [여행경로](https://programmers.co.kr/learn/courses/30/lessons/43164) | [🔗](./DFS,BFS/L3_여행경로.java)
+#
 ### 6주차 (21.10.24)
 유형 | 제목 | 풀이
 :-: | :-: | :-:
