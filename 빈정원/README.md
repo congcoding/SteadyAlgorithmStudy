@@ -9,8 +9,11 @@
 ### 7주차 (21.10.31)
 유형 | 레벨 | 제목 | 풀이
 :-: | :-: | :-: | :-:
+그리디 | 2️⃣ | [큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883) | [🔗](./그리디/L2_큰_수_만들기.java)
+DFS,BFS | 3️⃣ | [네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162) | [🔗](./DFS,BFS/L3_네트워크.java)
 DFS,BFS | 3️⃣ | [단어 변환](https://programmers.co.kr/learn/courses/30/lessons/43163) | [🔗](./DFS,BFS/L3_단어_변환.java)
 DFS,BFS | 3️⃣ | [여행경로](https://programmers.co.kr/learn/courses/30/lessons/43164) | [🔗](./DFS,BFS/L3_여행경로.java)
+그래프 | 3️⃣ | [가장 먼 노드](https://programmers.co.kr/learn/courses/30/lessons/49189) | [🔗](./그래프/L3_가장_먼_노드.java)
 #
 ### 6주차 (21.10.24)
 유형 | 제목 | 풀이
