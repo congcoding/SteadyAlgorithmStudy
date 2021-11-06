@@ -8,7 +8,7 @@ public class Solution {
         {
             if(word == '(')
             {
-                stack.Push(word.ToString());
+                stack.Push("(");
                 continue;
             }
             
