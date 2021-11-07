@@ -1,4 +1,24 @@
 # 신혜영
+### 8주차 (21.11.07)	
+유형 | 제목 | 풀이
+:-: | :-: | :-:
+구현 |[내적](https://programmers.co.kr/learn/courses/30/lessons/70128) | [🔗](https://github.com/congcoding/SteadyAlgorithmStudy/blob/main/%EC%8B%A0%ED%98%9C%EC%98%81/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/Level1/%EB%82%B4%EC%A0%81.py)
+구현 |[음양 더하기](https://programmers.co.kr/learn/courses/30/lessons/76501) | [🔗](https://github.com/congcoding/SteadyAlgorithmStudy/blob/main/%EC%8B%A0%ED%98%9C%EC%98%81/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/Level1/%EC%9D%8C%EC%96%91%20%EB%8D%94%ED%95%98%EA%B8%B0.py)
+구현 |[소수만들기](https://programmers.co.kr/learn/courses/30/lessons/12977) | [🔗](https://github.com/congcoding/SteadyAlgorithmStudy/blob/main/%EC%8B%A0%ED%98%9C%EC%98%81/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/Level1/%EC%86%8C%EC%88%98%EB%A7%8C%EB%93%A4%EA%B8%B0.py)
+구현 |[키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256) | [🔗](https://github.com/congcoding/SteadyAlgorithmStudy/blob/main/%EC%8B%A0%ED%98%9C%EC%98%81/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/Level1/%ED%82%A4%ED%8C%A8%EB%93%9C%20%EB%88%84%EB%A5%B4%EA%B8%B0.py)
+구현 |[없는 숫자 더하기](https://programmers.co.kr/learn/courses/30/lessons/86051) | [🔗](https://github.com/congcoding/SteadyAlgorithmStudy/blob/main/%EC%8B%A0%ED%98%9C%EC%98%81/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/Level1/%EC%97%86%EB%8A%94%20%EC%88%AB%EC%9E%90%20%EB%8D%94%ED%95%98%EA%B8%B0.py)
+
+### 7주차 (21.10.31)
+유형 | 제목 | 풀이
+:-: | :-: | :-:
+해시 |[위장](https://programmers.co.kr/learn/courses/30/lessons/42578) | [🔗](https://github.com/congcoding/SteadyAlgorithmStudy/blob/main/%EC%8B%A0%ED%98%9C%EC%98%81/%ED%95%B4%EC%89%AC/%EC%9C%84%EC%9E%A5.py)
+해시 |[전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577) | [🔗](https://github.com/congcoding/SteadyAlgorithmStudy/blob/main/%EC%8B%A0%ED%98%9C%EC%98%81/%ED%95%B4%EC%89%AC/%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8%20%EB%AA%A9%EB%A1%9D.py)
+수학 |[듣보잡](https://www.acmicpc.net/problem/1764) | [🔗](https://github.com/congcoding/SteadyAlgorithmStudy/blob/main/%EC%8B%A0%ED%98%9C%EC%98%81/%ED%95%B4%EC%89%AC/%EB%93%A3%EB%B3%B4%EC%9E%A1.py)
+정렬 |[숫자 카드2](https://www.acmicpc.net/problem/1931) | [🔗](https://github.com/congcoding/SteadyAlgorithmStudy/blob/main/%EC%8B%A0%ED%98%9C%EC%98%81/%ED%95%B4%EC%89%AC/%EC%88%AB%EC%9E%90%20%EC%B9%B4%EB%93%9C2.py)
+정렬 |[좌표 압축](https://www.acmicpc.net/problem/18870) | [🔗](https://github.com/congcoding/SteadyAlgorithmStudy/blob/main/%EC%8B%A0%ED%98%9C%EC%98%81/%EB%B0%B1%EC%A4%80/%EC%A0%95%EB%A0%AC/%EC%A2%8C%ED%91%9C%20%EC%95%95%EC%B6%95.py)
+
+### 6주차 (21.10.24)	
+📝 (중간고사)
 
 ### 5주차 (21.10.17)
 유형 | 제목 | 풀이
