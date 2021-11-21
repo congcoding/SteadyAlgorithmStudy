@@ -13,8 +13,8 @@ public class Main {
 		n = Integer.parseInt(st.nextToken());
 		m = Integer.parseInt(st.nextToken());
 		
-        // parent 배열 자기 자신으로 초기화
-        p = new int[n + 1];
+		// parent 배열 자기 자신으로 초기화
+		p = new int[n + 1];
 		for (int i = 0; i <= n; i++) {
 			p[i] = i;
 		}
@@ -36,7 +36,7 @@ public class Main {
 		}
 	}
     
-    public static void union(int a, int b) {
+    	public static void union(int a, int b) {
 		p[find(a)] = find(b);
 	}
 	
