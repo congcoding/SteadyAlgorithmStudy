@@ -30,18 +30,18 @@ public class Main {
 		V = Integer.parseInt(st.nextToken());
 		E = Integer.parseInt(st.nextToken());
 		
-        // parent 배열을 자기 자신으로 초기화
-        p = new int[V + 1];
+		// parent 배열을 자기 자신으로 초기화
+		p = new int[V + 1];
 		for (int i = 1; i <= V; i++) {
-            p[i] = i;
-        }
+		    p[i] = i;
+		}
         
 		for (int i = 0; i < E; i++) {
 			st = new StringTokenizer(br.readLine());
 			int start = Integer.parseInt(st.nextToken());
 			int end = Integer.parseInt(st.nextToken());
 			int cost = Integer.parseInt(st.nextToken());
-            // cost 오름차순으로 PQ에 저장
+            		// cost 오름차순으로 PQ에 저장
 			pq.add(new Edge(start, end, cost));
 		}
 		
@@ -49,14 +49,14 @@ public class Main {
 		int sum = 0;
 		while (!pq.isEmpty()) {
 			// 최소 스패닝 트리가 완성된 경우 break
-            if (cnt == V - 1) break;
+			if (cnt == V - 1) break;
             
 			Edge cur = pq.poll();
             
-            // 이미 연결되어 있으면 continue
+			// 이미 연결되어 있으면 continue
 			if (find(cur.start) == find(cur.end)) continue;
             
-            // 연결되어 있지 않으면 연결
+			// 연결되어 있지 않으면 연결
 			union(cur.start, cur.end);
 			cnt++;
 			sum += cur.cost;
